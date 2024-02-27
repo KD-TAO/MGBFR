@@ -15,7 +15,7 @@ Keda Tao, [Jinjin Gu](https://www.jasongt.com/), [Yulun Zhang](http://yulunzhang
 
 > **Abstract:** We introduce a novel Multi-modal Guided Blind Face Restoration (MGBFR) technique to enhance the quality of facial image recovery from low-quality inputs. Leveraging a blend of attribute text prompts, high-quality reference images, and identity information, MGBFR can mitigate the generation of false facial attributes and identities often associated with generative face restoration methods. By incorporating a dual-control adapter and a two-stage training strategy, our method effectively utilizes multi-modal prior information for targeted restoration tasks. We also present the Reface-HQ dataset, comprising over 23,000 high-resolution facial images across 5,000 identities, to address the need for extensive reference material. Our approach achieves superior visual quality in restoring facial details under severe degradation and allows for controlled restoration processes, enhancing the accuracy of identity preservation and attribute correction. Including negative quality samples and attribute prompts in the training further refines the model's ability to generate detailed and perceptually accurate images. 
 
-## :eyes:Visual Results On Real-world Images
+## :eyes:Visual Results
 ### Face Restoration
 
 <p align="center">    <img src="fig/R1.png" style="border-radius: 15px"></p>
