@@ -28,7 +28,6 @@ Keda Tao, [Jinjin Gu](https://www.jasongt.com/), [Yulun Zhang](http://yulunzhang
 
 ## ⚒️ TODO
 
-* [ ] Release Paper
 * [ ] Release code and pretrained models
 
 ## Acknowledgement
