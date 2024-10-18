@@ -5,7 +5,7 @@ Keda Tao, [Jinjin Gu](https://www.jasongt.com/), [Yulun Zhang](http://yulunzhang
 
 <p align="center">    <img src="fig/M.png" style="border-radius: 15px"></p>
 
-[arXiv] [visual results] [pretrained models]
+[arXiv](https://arxiv.org/abs/2410.04161) [visual results] [pretrained models]
 
 #### 🔥🔥🔥 News
 
